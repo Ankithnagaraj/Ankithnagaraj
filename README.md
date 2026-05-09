@@ -1,152 +1,171 @@
-```md
-<h1 align="center">Hi 👋, I'm Ankith</h1>
-<h3 align="center">☁️ AWS Solutions Architect | Linux & Networking Enthusiast | Cloud Learner 🚀</h3>
+```md id="l2x8dw"
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=AWS+Solutions+Architect+Learner;Cloud+Computing+Enthusiast;Linux+Administrator;Networking+Engineer;DevOps+and+Cloud+Automation" alt="Typing SVG" />
-</p>
+<h3 align="center">☁️ AWS Solutions Architect | Linux Administrator | Networking Enthusiast 🚀</h3>
 
----
+###
 
-<img align="right" alt="Cloud" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXU0eG8yZXB4aDV6d3N5dXJiNXF2a3Y5djN1MmdvZGQ1eWt2MW5hZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=AWS+Cloud+Engineer;Linux+Administrator;Networking+Engineer;Cloud+Computing+Enthusiast;DevOps+Learner" />
+</div>
 
-## 💫 About Me
+###
 
-- 🌱 Currently learning **Advanced AWS Architecture & DevOps**
-- ☁️ Passionate about **Cloud Computing and Infrastructure**
-- 🐧 Skilled in **Linux Administration & Networking**
-- 🔐 Interested in **Cloud Security & Scalable Architectures**
-- 🚀 Building hands-on AWS projects and cloud deployments
-- 📫 Reach me at: **ankithn888@gmail.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
 
----
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
 
-## 🌐 Connect With Me
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=redhat" height="60" alt="redhat logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ankithn888/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+  <a href="https://github.com/Ankithnagaraj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+
+  <a href="mailto:cloudchamp44@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankithnagaraj&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
+
+  <img src="https://streak-stats.demolab.com?user=Ankithnagaraj&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankithnagaraj&theme=tokyonight&row=1&column=6" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<h2 align="left">💫 About Me</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ankithn888/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
-</a>
+
+☁️ AWS Cloud & Solutions Architecture Enthusiast <br><br>
+🐧 Skilled in Linux Administration and Networking <br><br>
+🚀 Working on AWS Infrastructure and Cloud Projects <br><br>
+🔐 Interested in Cloud Security and Scalable Architectures <br><br>
+📚 Currently learning DevOps and Cloud Automation <br><br>
+🌍 Passionate about Cloud Computing Technologies
+
 </p>
 
----
+###
 
-# ☁️ AWS Cloud Skills
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,bash,linux,git,github" />
-</p>
-
----
-
-# 🚀 AWS Services
+<h2 align="left">🚀 AWS Services & Skills</h2>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-VPC-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Route53-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudFront-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-RDS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-DynamoDB-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudWatch-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-AutoScaling-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-LoadBalancer-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-ECS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-CloudTrail-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+🔹 EC2 <br>
+🔹 IAM <br>
+🔹 VPC <br>
+🔹 Route 53 <br>
+🔹 S3 <br>
+🔹 CloudFront <br>
+🔹 Auto Scaling <br>
+🔹 Load Balancer <br>
+🔹 CloudWatch <br>
+🔹 ECS <br>
+🔹 CloudFormation <br>
+🔹 RDS <br>
+🔹 DynamoDB <br>
+🔹 CloudTrail <br>
+🔹 NAT Gateway <br>
+🔹 VPC Peering <br>
 
 </p>
 
----
+###
 
-# 🐧 Linux Administration Skills
+<h2 align="left">🌐 Networking Skills</h2>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/RedHat-RHEL-red?style=for-the-badge&logo=redhat"/>
-<img src="https://img.shields.io/badge/SSH-SecureShell-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SELinux-Security-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash"/>
-<img src="https://img.shields.io/badge/Systemd-ServiceManagement-grey?style=for-the-badge"/>
+🔸 TCP/IP <br>
+🔸 OSI Model <br>
+🔸 IPv4 & Subnetting <br>
+🔸 DNS & DHCP <br>
+🔸 NAT & VPN <br>
+🔸 ACL & NACL <br>
 
 </p>
 
----
+###
 
-# 🌍 Networking Skills
+<h2 align="left">🐧 Linux Skills</h2>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Networking-TCP/IP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSI-Model-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IPv4-Subnetting-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-DomainSystem-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DHCP-Networking-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NAT-Translation-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPN-SecureConnection-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPC-Peering-orange?style=for-the-badge"/>
+🔹 SSH Configuration <br>
+🔹 SELinux <br>
+🔹 User Management <br>
+🔹 File Permissions <br>
+🔹 Bash Scripting <br>
+🔹 Systemd Services <br>
 
 </p>
 
----
+###
 
-# 📂 Featured AWS Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
-🚀 VPC Architecture with Public & Private Subnets  
-🚀 EC2 Deployment with Load Balancer  
-🚀 Static Website Hosting using S3  
-🚀 Auto Scaling Architecture  
-🚀 CloudFront CDN Setup  
-🚀 Route53 Domain Mapping  
-🚀 Linux Server Administration  
-🚀 IAM User & Policy Management  
+###
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ankithnagaraj&label=Profile%20Views&color=orange&style=for-the-badge" alt="profile views" />
+</div>
 
-# 📊 GitHub Stats
+###
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankithnagaraj&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankithnagaraj&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ankithnagaraj&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ankithnagaraj&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🚀 Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ankithnagaraj&label=Profile%20Views&color=orange&style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center">⭐ “Designing Scalable Cloud Architectures One Step at a Time” ⭐</h3>
+<h3 align="center">⭐ Designing Scalable Cloud Architectures One Step at a Time ⭐</h3>
 ```
